@@ -4,7 +4,7 @@
 Este repositório contém anotações insights e boas práticas aprendidas durante as aulas do curso de AWS junto a plataforma DIO.
 
 # SÚMARIO 📋 
-° Anotações °  — Anotações feitas do conteúdo das aulas do bootcamp
+° Anotações °  — Anotações feitas do conteúdo das aulas durante o bootcamp
 
 ° Imagens ° - Projetos e Desafios
 
