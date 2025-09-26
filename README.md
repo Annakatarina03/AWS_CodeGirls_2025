@@ -6,5 +6,5 @@ Este repositório contém anotações insights e boas práticas aprendidas duran
 # SÚMARIO 📋 
 ° Anotações °  — Anotações feitas do conteúdo das aulas do bootcamp
 
-° Desafios ° - Projetos e Desafios
+° Imagens ° - Projetos e Desafios
 
